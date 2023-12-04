@@ -9,4 +9,6 @@ Bu depo, Onion Architecture prensiplerine dayalı olarak geliştirilen basit bir
 - **Application**: Kullanıcı arayüzüyle iletişim kuran ve iş mantığına yönlendiren katmandır. Core ve Infrastructure katmanlarıyla etkileşimde bulunur.
 - **Presentation**: Kullanıcı arayüzüyle doğrudan ilişkili olan katmandır. Web, masaüstü uygulamaları gibi çeşitli arayüzler içerebilir.
 
+<img src="https://i.hizliresim.com/fwbmmax.png"  width="600px" target="_blank" />
+
 
