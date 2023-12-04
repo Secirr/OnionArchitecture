@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ETicaretAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ETicaretAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ETicaretAPI.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ETicaretAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+      "msbuildProject": "../ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ETicaretAPI.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/kadirozdemir/.nuget/packages/": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+      "projectUniqueName": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
       "projectName": "ETicaretAPI.Application",
-      "projectPath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+      "projectPath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
       "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-      "outputPath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/obj/",
+      "outputPath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+              "projectPath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

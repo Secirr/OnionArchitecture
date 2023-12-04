@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7YIrmx1/i8CCKPqILz+5WrGrlp0xwM0au+1OaXhibMIBXKUY90fsYO154LDVQi1bSWJU+Aaj35AkHzTAwSshNg==",
+  "dgSpecHash": "uksN/WkY3NdXAOQSzb6Ln2GhgiIZurZoUJ9StGVU275G2BTft3rxcfa+Znn08pKAtOlXfvZNmYuKXWIzUrDgGw==",
   "success": true,
-  "projectFilePath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+  "projectFilePath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

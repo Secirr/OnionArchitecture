@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gPPYGobLGjJ6J2mhA6AgAVsau0yjNrJ6pc21sP9S1s/Zin6U1zmxHkZbtIE5ox2rL6HMLsFdfIJdFukpYb6Hog==",
+  "dgSpecHash": "jfCoHV8P9PEMOOdzxIvHEsFYPw+BBddumLTIWUGH/bjhj1CrmU/fJyjj5b1FP7R6TA8VbE9gNqm9jxVd+xwbqQ==",
   "success": true,
-  "projectFilePath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArthitecture/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
+  "projectFilePath": "/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
   "expectedPackageFiles": [
     "/Users/kadirozdemir/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/kadirozdemir/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/kadirozdemir/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",

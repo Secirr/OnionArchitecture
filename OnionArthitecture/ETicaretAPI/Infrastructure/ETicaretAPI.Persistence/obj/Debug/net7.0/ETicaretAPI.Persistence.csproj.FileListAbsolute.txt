@@ -1,0 +1,17 @@
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Persistence.deps.json
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Persistence.dll
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Persistence.pdb
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Application.dll
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Domain.dll
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Application.pdb
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/bin/Debug/net7.0/ETicaretAPI.Domain.pdb
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.csproj.CopyComplete
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.dll
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/refint/ETicaretAPI.Persistence.dll
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ETicaretAPI.Persistence.pdb
+/Users/kadirozdemir/Desktop/GencayYildiz/OnionArchitecture/OnionArthitecture/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/Debug/net7.0/ref/ETicaretAPI.Persistence.dll
