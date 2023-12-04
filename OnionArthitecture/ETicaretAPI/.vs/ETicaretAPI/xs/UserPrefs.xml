@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{2368E059-E001-40DB-99DD-041A50FA99BC}|https">
+  <MonoDevelop.Ide.ItemProperties.Presentation.ETicaretAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Infastructure.ETicaretAPI.Persistence FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Infastructure.ETicaretAPI.Infrastructure FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Core.ETicaretAPI.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Core.ETicaretAPI.Domain FirstBuild="True" />
+</Properties>
